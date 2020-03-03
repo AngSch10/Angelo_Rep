@@ -1,7 +1,0 @@
-ENTITIES
-1) minimum threshold of utterances for an entity to be recognized
-2) (hierarchical entities: max 1 level??)
-3) (how with "non")
-4) prebuilt entity: they can be modified or extended (lunedi e lunedi', primo e prima e primi)
-5) (*"from location to location": hierarchical "location" -> child: "fromlocation", "tolocation")
-6) singular,plural,male and female as same entity?
